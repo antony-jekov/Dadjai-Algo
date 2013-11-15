@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dadjai.UI", "Dadjai.UI\Dadjai.UI.csproj", "{F65D3225-99FB-477A-9395-9A301815A3BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dadjai.Common", "Dadjai.Common\Dadjai.Common.csproj", "{FAF676FA-D04B-4FE5-8BF7-B09FD971FFAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dadjai.JSTranslator", "Dadjai.JSTranslator\Dadjai.JSTranslator.csproj", "{6B35DF52-FBB8-48DB-8B88-07B2B2F3512B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dadjai.WebSpider", "Dadjai.WebSpider\Dadjai.WebSpider.csproj", "{3026EC27-76AE-4434-851A-8AB582060566}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dadjai.Oracle", "Dadjai.Oracle\Dadjai.Oracle.csproj", "{84FB760D-C40F-4873-A783-D27F9A6C3C15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F65D3225-99FB-477A-9395-9A301815A3BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F65D3225-99FB-477A-9395-9A301815A3BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F65D3225-99FB-477A-9395-9A301815A3BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F65D3225-99FB-477A-9395-9A301815A3BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAF676FA-D04B-4FE5-8BF7-B09FD971FFAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAF676FA-D04B-4FE5-8BF7-B09FD971FFAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAF676FA-D04B-4FE5-8BF7-B09FD971FFAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAF676FA-D04B-4FE5-8BF7-B09FD971FFAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B35DF52-FBB8-48DB-8B88-07B2B2F3512B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B35DF52-FBB8-48DB-8B88-07B2B2F3512B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B35DF52-FBB8-48DB-8B88-07B2B2F3512B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B35DF52-FBB8-48DB-8B88-07B2B2F3512B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3026EC27-76AE-4434-851A-8AB582060566}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3026EC27-76AE-4434-851A-8AB582060566}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3026EC27-76AE-4434-851A-8AB582060566}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3026EC27-76AE-4434-851A-8AB582060566}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84FB760D-C40F-4873-A783-D27F9A6C3C15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84FB760D-C40F-4873-A783-D27F9A6C3C15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84FB760D-C40F-4873-A783-D27F9A6C3C15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84FB760D-C40F-4873-A783-D27F9A6C3C15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
